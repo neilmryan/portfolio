@@ -13,6 +13,7 @@ h1, h2, h3, h4, a, p, table {
   font-family: 'Lato', sans-serif;
   color: #006666;
   text-align: center;
+
 }
 
 p {
@@ -28,8 +29,8 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5em;
-  font-weight: 400;
+  font-size: 2em;
+  font-weight: 100;
   font-style: italic;
   margin-top: 0;
   padding-top: 20px;
