@@ -1,0 +1,74 @@
+* {
+  //border: 1px solid red !important;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #E6FFE6;
+}
+
+h1, h2, h3, h4, a, p, table {
+  font-family: 'Lato', sans-serif;
+  color: #006666;
+  text-align: center;
+}
+
+p {
+  padding-bottom: 18px;
+}
+
+h1 {
+  font-size: 90px;
+  font-weight: 100;
+  margin-top: 25px;
+  margin-bottom: 0px;
+  text-shadow: 2px 2px 8px #006666;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: 400;
+  font-style: italic;
+  margin-top: 0;
+  padding-top: 20px;
+  text-shadow: 2px 2px 8px #006666;
+}
+
+h4 a {
+  text-decoration: none;
+}
+
+h4 a:hover {
+  text-shadow: 2px 2px 8px #006666;
+}
+
+table {
+  margin-left:auto;
+  margin-right:auto;
+  text-shadow: 2px 2px 8px #ce28d1;
+}
+
+a {
+  text-decoration: none;
+  padding: 10px;
+}
+
+.blurb {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.nav {
+  text-align: center;
+}
+
+.nav a:hover {
+  text-decoration: none;
+  text-shadow: 2px 2px 8px #006666;
+}
+
+.visit_me.  {
+  padding-top: 20px;
+}
