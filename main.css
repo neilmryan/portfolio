@@ -12,14 +12,12 @@ html {
 
 body {
   background-color: #E6FFE6;
-
 }
 
 h1, h2, h3, h4, a, p, table {
   font-family: 'Lato', sans-serif;
   color: #006666;
   text-align: center;
-
 }
 
 p {
@@ -41,6 +39,10 @@ h2 {
   margin-top: 0;
   padding-top: 20px;
   text-shadow: 2px 2px 8px #006666;
+}
+
+h3 {
+  font-style: italic;
 }
 
 h4 a {
@@ -78,4 +80,9 @@ a {
 
 .visit_me.  {
   padding-top: 20px;
+}
+
+.top_links a {
+  font-size: 2em;
+  margin-bottom: 10px;
 }
