@@ -90,11 +90,18 @@ a {
 #pic_me {
   display: block;
   max-width: 150px;
-  margin-top: 40px;
+  margin-top: 25px;
   margin-bottom: 30px;
   margin-left: auto;
   margin-right: auto;
   border: 1px solid #ce28d1;
   box-shadow: 2px 2px 48px #006666;
   border-radius: 50%
+}
+
+.video_ruby_cli_gem {
+  width: 100%;
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
 }
