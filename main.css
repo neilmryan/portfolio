@@ -20,6 +20,23 @@ h1, h2, h3, h4, a, p, table {
   text-align: center;
 }
 
+ul li{
+  font-family: 'Lato', sans-serif;
+  color: #006666;
+  font-size: 1em;
+  text-align: left;
+  text-shadow: 2px 2px 64px #ce28d1;
+}
+
+.bolder li {
+  font-size: 1.25em;
+  list-style: none;
+}
+
+.bolder_bullets li {
+  font-size: 1.25em;
+}
+
 p {
   padding-bottom: 18px;
 }
