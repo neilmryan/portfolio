@@ -25,7 +25,7 @@ ul li{
   color: #006666;
   font-size: 1em;
   text-align: left;
-  text-shadow: 2px 2px 64px #ce28d1;
+  //text-shadow: 1px 1px 64px #ce28d1;
 }
 
 .bolder li {
@@ -58,11 +58,13 @@ h2 {
   text-shadow: 2px 2px 8px #006666;
 }
 
-h3 {
+h3 a {
   font-style: italic;
 }
+
 h2 a {
-  text-shadow: 2px 2px 8px #ce28d1;
+  text-shadow: 2px 2px 8px #006666;
+  font-style: normal;
 }
 
 h4 a {
@@ -74,7 +76,7 @@ h4 a:hover {
 }
 
 h2 a:hover {
-  text-shadow: 2px 2px 8px #006666;
+  text-shadow: 2px 2px 8px #ce28d1;
 }
 
 table {
@@ -107,7 +109,7 @@ a {
 }
 
 .top_links a {
-  font-size: 2em;
+  font-size: 1.75em;
   margin-bottom: 10px;
 }
 
