@@ -61,12 +61,19 @@ h2 {
 h3 {
   font-style: italic;
 }
+h2 a {
+  text-shadow: 2px 2px 8px #ce28d1;
+}
 
 h4 a {
   text-decoration: none;
 }
 
 h4 a:hover {
+  text-shadow: 2px 2px 8px #006666;
+}
+
+h2 a:hover {
   text-shadow: 2px 2px 8px #006666;
 }
 
@@ -95,7 +102,7 @@ a {
   text-shadow: 2px 2px 8px #006666;
 }
 
-.visit_me.  {
+.visit_me  {
   padding-top: 20px;
 }
 
@@ -107,8 +114,8 @@ a {
 #pic_me {
   display: block;
   max-width: 150px;
-  margin-top: 25px;
-  margin-bottom: 30px;
+  margin-top: 45px;
+  margin-bottom: 0px;
   margin-left: auto;
   margin-right: auto;
   border: 1px solid #ce28d1;
@@ -121,4 +128,10 @@ a {
   margin-top: 25px;
   display: flex;
   justify-content: center;
+}
+
+iframe {
+  border: 1px solid #ce28d1;
+  box-shadow: 2px 2px 48px #006666;
+
 }

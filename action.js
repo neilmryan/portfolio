@@ -16,4 +16,3 @@ $(".visit_me").hover(
     //$(this).css("text-shadow", "2px 2px 8px #006666");
     //console.log(site_name);
 });
- 
